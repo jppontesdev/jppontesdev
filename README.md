@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Student, Java expert ☕, and always looking to learn more about programming and tech<br><br>📧Contact: jpedropds7@gmail.com</p>
+<p align="center">Always looking to learn more about programming and tech<br><br>📧Contact: jpedropds7@gmail.com</p>
 
 ###
 
